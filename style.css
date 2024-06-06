@@ -1,0 +1,50 @@
+html{
+    background-color:#3c8234;
+    color: rgb(25, 25, 24);
+   
+}
+h1{
+    padding-left: 35%;
+   
+}
+.container{
+    background-color: #15a321;
+}
+table{
+   padding-left: 5%;
+    margin-top: 5%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 600px;
+    display:block;
+    border: solid black 5px;
+  
+}
+tbody{
+    display: table-row-group;
+    vertical-align: middle;
+   
+}
+tr{
+    display: table-row;
+}
+th,td{
+    border: solid black 1px;
+    
+}
+img{
+ 
+    border: solid blue 3px;
+   
+   
+}
+ul{
+   color: #951616;  
+}
+a{
+    color: rgb(2, 2, 2);
+}
+a:hover{
+    background-color: #1cc981;
+}
+
